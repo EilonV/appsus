@@ -31,4 +31,4 @@
 @import 'apps/note/views/note-list.css';
 @import 'apps/note/views/note-editor.css';
 @import 'apps/note/views/note-filter.css';
-@import '/assets/css/apps/apps-modal.css';
+@import '../../assets/css/apps/apps-modal.css';
