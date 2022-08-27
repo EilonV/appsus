@@ -28,7 +28,7 @@ export function AppHeader() {
                 </i></NavLink>
                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><i class="fa-brands fa-trello bento-icon" title="Trello"></i></a>
             </div>
-            <img className="apps-icons" src="/assets/img/icons/appss.svg" alt="" onClick={toggleBento} />
+            <img className="apps-icons" src="./assets/img/icons/appss.svg" alt="" onClick={toggleBento} />
         </nav>
     </header>
 }
